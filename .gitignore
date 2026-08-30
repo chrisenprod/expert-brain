@@ -1,0 +1,9 @@
+# Las transcripciones completas son obra de sus autores: no se publican.
+# Genéralas en local con scripts/ingest.py — quedan en <experto>/raw/texto/.
+# Las fichas de raw/transcripciones/ (título, autor, enlace) sí van en el repo:
+# son metadatos públicos y el wiki las cita.
+*/raw/texto/
+.ingest-cache/
+.DS_Store
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
