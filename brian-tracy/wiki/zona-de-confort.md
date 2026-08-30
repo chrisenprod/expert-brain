@@ -39,3 +39,4 @@ sobre su dirección. Ver [[leyes-mentales]], ley del control.
 ## Ver también en otros expertos
 
 - [[velocidad-de-ejecucion]] — Heras ataca lo mismo por el lado del tiempo: la planificación como forma elegante de no arrancar.
+- [[mentalidad-y-creencia]] — cuándo sirve el consejo de Tracy y cuándo el contrario.

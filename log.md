@@ -278,3 +278,19 @@ enlaces rotos en 138 páginas**: el grafo se partía en cuanto alguien clonaba e
 Ahora `raw/transcripciones/` (las fichas) va versionado y `raw/texto/` (el texto corrido, que sí es
 obra de sus autores) está ignorado. `scripts/ingest.py` escribe en `raw/texto/` y ya no pisa las
 fichas.
+
+## [2026-08-30] centro | Mentalidad, y el desacuerdo que estaba escondido
+
+Sexta y última página del cruce, la que cierra `caleb-ralston ↔ brian-tracy`, que era la única
+celda en cero que quedaba en la matriz.
+
+Cuatro de los cinco usan el mismo mecanismo —lo que crees decide lo que haces— pero lo apuntan a
+tres blancos distintos: tu creencia (Tracy, Heras), la del cliente (Emilio) y la que declaras en
+público (Ralston, Hormozi). Puesto así aparece un desacuerdo que no estaba escrito en ningún
+sitio: **Tracy dice que subas la creencia por encima de la evidencia; Ralston y Hormozi dicen que
+la bajes hasta que coincida con los hechos.** Para Tracy el síndrome del impostor es un
+autoconcepto que reprogramar; para Hormozi es información correcta.
+
+El otro hallazgo es que `probabilidad-de-exito` de Emilio, que estaba archivado como página de
+precio, es la ley de la expectativa de Tracy aplicada al comprador — y la única versión del vault
+donde la creencia se fabrica con data en vez de con afirmaciones.

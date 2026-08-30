@@ -30,3 +30,9 @@ Los dos pueden funcionar. Lo que no funciona es mezclarlos.
 
 Y antes de decidir cuál eres, conviene pasar por [[como-leer-a-caleb-ralston]]: él mismo empezó su
 marca pública con 17 años de banco acumulado, que es justo lo que un estudiante no tiene.
+
+## Ver también en otros expertos
+
+- [[autoconcepto]] — Tracy dice lo contrario: sube la creencia por encima de la evidencia.
+- [[probabilidad-de-exito]] — Emilio construye con data la creencia que aquí se prohíbe fingir.
+- [[mentalidad-y-creencia]] — el choque entre declarar y creer, y cuál aplica dónde.

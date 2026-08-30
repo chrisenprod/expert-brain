@@ -31,6 +31,8 @@ Cuando cinco personas que discrepan en todo coinciden, eso pesa más que cualqui
 - [[volumen-y-ejecucion]] — el único punto donde coinciden los cinco, Tracy incluido.
 - [[repetir-pocas-ideas]] — y qué se repite: pocas ideas, muchos envases.
 - [[el-fracaso-como-dato]] — publicar es medir.
+- [[mentalidad-y-creencia]] — el mismo mecanismo en cuatro de los cinco, apuntado a blancos
+  distintos. Y dónde se rompe el consenso.
 
 ## Dónde se completan
 

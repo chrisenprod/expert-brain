@@ -23,3 +23,8 @@ Es la parte del material más marcada por su época, y donde el mecanismo propue
 de afirmaciones— tiene menos respaldo del que él le atribuye. La versión defendible es la
 trivial y sigue siendo útil: **tus insumos determinan en qué piensas, y en qué piensas determina
 qué haces**. Ver [[como-leer-el-seminario-fenix]].
+
+## Ver también en otros expertos
+
+- [[psicologia-del-dinero]] — Heras sostiene lo mismo con money scripts en vez de con la ley de la atracción.
+- [[mentalidad-y-creencia]] — qué queda en pie del mecanismo sin la capa metafísica.

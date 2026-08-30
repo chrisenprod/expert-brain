@@ -42,3 +42,5 @@ irresponsabilidad y las emociones negativas están unidas.
 
 - [[psicologia-del-dinero]] — El termostato financiero de Hormozi es este mismo mecanismo, cuarenta años después y con otro nombre.
 - [[teoria-del-faro]] — Heras llega a lo mismo desde la marca: lo que la gente cree que eres decide lo que compras.
+- [[estudiante-o-experto]] — Ralston lo invierte: no subas la creencia, ajústala a la evidencia.
+- [[mentalidad-y-creencia]] — el mismo mecanismo apuntado a tres blancos distintos.

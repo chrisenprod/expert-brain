@@ -101,3 +101,6 @@ minutos.
 ## Ver también en otros expertos
 
 - [[autoconcepto]] — Tracy describía el mismo termostato en los 80, sin el respaldo experimental.
+- [[autoconcepto]] — el termostato financiero es esto mismo, cuarenta años antes.
+- [[probabilidad-de-exito]] — Emilio usa el mecanismo hacia afuera: la creencia del que compra.
+- [[mentalidad-y-creencia]] — el mismo mecanismo apuntado a tres blancos distintos.

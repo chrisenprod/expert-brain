@@ -39,3 +39,9 @@ Su respuesta a "¿cómo construyo una marca personal?" es deliberadamente antihy
 
 Con la matización de que documentar por el camino le parece bien, siempre que digas los hechos y
 cuentes la verdad.
+
+## Ver también en otros expertos
+
+- [[estudiante-o-experto]] — Ralston llega a la misma regla y la vuelve una decisión binaria.
+- [[autoconcepto]] — Y Tracy sostiene lo contrario: el problema no es lo que afirmas, es lo que crees.
+- [[mentalidad-y-creencia]] — el choque entre declarar y creer, y cuál aplica dónde.

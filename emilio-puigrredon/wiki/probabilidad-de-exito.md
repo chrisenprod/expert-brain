@@ -57,3 +57,10 @@ corresponda.
 Los tres componentes se entregan antes de la llamada, dentro del preframe:
 [[sistemas-de-backend]]. Y la data que muestra —9,8 de 10 en coaches, 9,4 de NPS— tiene una
 causa operativa concreta: la asignación de coach por afinidad. Ver [[ia-en-el-negocio]].
+
+## Ver también en otros expertos
+
+- [[creencia-y-expectativa]] — Tracy nombra el mecanismo cuarenta años antes: consigues lo que esperas.
+- [[banco-de-credibilidad]] — Ralston acumula la misma prueba, para la marca en vez de para el precio.
+- [[resultados-que-respaldan]] — Y Heras la usa como contenido, no como preframe.
+- [[mentalidad-y-creencia]] — el mismo mecanismo apuntado a tres blancos distintos.

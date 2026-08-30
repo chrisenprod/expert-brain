@@ -44,3 +44,9 @@ Admite que suena cursi. Su argumento no es mágico sino atencional: pasas el dí
 que cualquier cosa que ocurra puede ser eso maravilloso, y por la noche encuentras la lista.
 
 Ver [[autoconcepto]] y [[como-leer-el-seminario-fenix]].
+
+## Ver también en otros expertos
+
+- [[probabilidad-de-exito]] — Emilio aplica la ley de la expectativa al cliente, y la fabrica con data.
+- [[la-verdad-vende-mas]] — Hormozi discrepa: el síndrome del impostor es información correcta.
+- [[mentalidad-y-creencia]] — el mismo mecanismo apuntado a tres blancos distintos.
