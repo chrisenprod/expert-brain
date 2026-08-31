@@ -379,3 +379,23 @@ Y se aprovechó para dejar los colores del grafo **en el repo** en vez de en el 
 cada uno: `.obsidian/graph.json` lleva los siete `colorGroups` por ruta y la física ajustada
 (repel 18, linkDistance 120, centerStrength 0.30). Antes venía vacío, así que quien clonaba veía
 un grafo gris y sin cúmulos.
+
+## [2026-08-30] scripts | ingest.py se completa y deja de tener canales dentro
+
+Solo bajaba a Tracy. Para los otros cuatro imprimía "misma receta: meta → track → json3" y
+salía, y el diccionario `CANALES` con los cuatro canales estaba definido y **nunca se usaba**.
+Es decir, la línea del `.gitignore` que promete que puedes regenerar las fuentes en local era
+verdad para 25 de las 109.
+
+El arreglo cambió la fuente de verdad: en vez de una lista de canales dentro del script, ahora
+lee las 109 fichas de `experts/*/raw/transcripciones/` y saca la URL del frontmatter. Tres
+consecuencias:
+
+- **Funciona para cualquier experto que se añada**, sin tocar el código. `CANALES` desaparece.
+- **Agrupa por vídeo**: los 25 módulos de Tracy comparten uno, así que se baja una vez y se
+  reparte por `chapters` usando el campo `modulo: N de 25` de cada ficha.
+- **Es reanudable.** Salta lo que ya existe, que es lo que hace tolerable el bot-check.
+
+Probado: `python3 scripts/ingest.py emilio` → 16 escritas de 17. La que falta es "Un día real en
+la vida de un CEO", que genuinamente no tiene subtítulos — el caso que `CLAUDE.md` distingue del
+429.

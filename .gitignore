@@ -7,3 +7,4 @@ experts/*/raw/texto/
 .DS_Store
 **/.obsidian/workspace.json
 **/.obsidian/workspace-mobile.json
+__pycache__/

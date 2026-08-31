@@ -217,7 +217,18 @@ fork público.
 
 **Las transcripciones completas no están en el repo.** Son obra de sus autores, así que aquí solo
 va la síntesis, y `raw/transcripciones/` guarda una ficha por fuente con el enlace al vídeo.
-`scripts/ingest.py` te baja el texto corrido a `raw/texto/` si quieres trabajar sobre él.
+`scripts/ingest.py` te baja el texto corrido a `raw/texto/` si quieres trabajar sobre él:
+
+```
+pip install yt-dlp
+python3 scripts/ingest.py            # las 109
+python3 scripts/ingest.py victor     # solo un brain
+```
+
+No lleva dentro ninguna lista de canales: **saca las URLs de las propias fichas**, así que
+funciona igual para cualquier experto que añadas después. Es reanudable —lo ya bajado no se
+repite— y eso importa porque el bot-check de YouTube devuelve un 429 que *parece* "este vídeo no
+tiene subtítulos".
 
 La regla que separa las capas: **la fuente se lee y no se reescribe; el wiki es destilado y
 siempre cita.** Si una página del wiki no se puede rastrear hasta una fuente, sobra.
