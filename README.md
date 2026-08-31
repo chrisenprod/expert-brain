@@ -137,8 +137,29 @@ de `raw/transcripciones/` lleva el enlace.
 
 ### En Obsidian
 
-Clona y abre la carpeta como vault. Los `[[enlaces]]` resuelven entre brains. La vista de grafo
-muestra los cinco separados por color y dónde se cruzan.
+Clona y abre la carpeta como vault. Los `[[enlaces]]` resuelven entre brains, y la vista de grafo
+es la forma más rápida de ver la estructura: **281 notas, 1.536 enlaces, ninguno roto.**
+
+![El grafo completo](img/grafo-completo.webp)
+
+Cada experto es un color y forma su propio cúmulo. No es decoración: si una idea aparece en dos
+colores, es que dos personas que no se conocen llegaron a lo mismo por caminos distintos, y eso
+pesa más que cualquiera de ellas por separado.
+
+**El nodo morado del medio es `expert-brain`**, y a su alrededor orbitan las páginas que ningún
+brain puede contener solo — las contradicciones, los consensos y el linaje:
+
+![El centro del grafo](img/grafo-centro.webp)
+
+Y al pinchar cualquier experto se enciende lo suyo y se apaga el resto. Sirve para ver de un
+vistazo qué cubre cada uno y, sobre todo, **qué no cubre**:
+
+| Brian Tracy | Alex Hormozi |
+|---|---|
+| ![Cúmulo de Brian Tracy](img/cumulo-tracy.webp) | ![Cúmulo de Alex Hormozi](img/cumulo-hormozi.webp) |
+
+Tracy queda aparte a propósito: es de otra época y de otro tema. Los enlaces que sí tiene con los
+demás son los que más rinden, porque son coincidencias entre gente que no se copió.
 
 ---
 
@@ -153,6 +174,7 @@ expert-brain/
 │   └── wiki/                    destilado, citando la ficha en cada afirmación
 ├── super-expert-brain/wiki/     el cruce entre los cinco: contradicciones, consensos, linaje
 ├── mi-marca/                    once fichas en blanco para rellenar con lo tuyo
+├── img/                         capturas del grafo para este README
 ├── log.md                       qué se hizo y cuándo
 └── scripts/ingest.py            regenera el texto de las fuentes en local
 ```
