@@ -399,3 +399,25 @@ consecuencias:
 Probado: `python3 scripts/ingest.py emilio` → 16 escritas de 17. La que falta es "Un día real en
 la vida de un CEO", que genuinamente no tiene subtítulos — el caso que `CLAUDE.md` distingue del
 429.
+
+## [2026-08-30] skills | El candado de cita, tras fallar en la primera prueba real
+
+Primera ejecución de `/contenido` en serio —diez ideas de contenido— y **no abrió una sola
+página del vault**. Listó las treinta del Paso 0 y respondió sin leer ninguna, apoyándose en el
+ADN del cerebro de marca del usuario y en dos citas de memoria.
+
+El diagnóstico importa más que el fallo: no fue un descuido, fue un defecto de diseño. La skill
+**listaba fuentes pero no obligaba a abrirlas**. "Lee los cinco" era un título, no un paso con
+comprobación, y sus Pasos 1 y 2 (diagnóstico y desacuerdo) no se activan con una petición
+generativa. Una skill que se puede cumplir sin hacer su paso caro se cumple sin hacerlo.
+
+Dos arreglos:
+
+- **`## El candado` en las cinco.** Cada afirmación lleva su ruta completa; tres comprobaciones
+  antes de responder; y dicho con todas las letras: *"listar las páginas del Paso 0 no es
+  haberlas leído. Si tu respuesta se podría haber escrito sin abrir un solo archivo, no has
+  usado el repo."*
+- **Rama "dame ideas" en `/contenido`**, que no existía. Separa **generar** (el molde de
+  `nutricion-por-paradigmas`, el dolor de Ralston, el 5% de `idea-ganadora`) de **filtrar**
+  (`filtro-550`, `seguidor-ideal`, `repetir-pocas-ideas`, `la-roca`), y obliga a responder a
+  quién le habla antes de listar nada.

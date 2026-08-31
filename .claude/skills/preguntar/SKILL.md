@@ -14,6 +14,24 @@ description: >-
 Responde con los cinco, citando. La regla que la hace útil: **si discrepan, el desacuerdo va
 antes que la respuesta.** Un consenso falso es peor que no responder.
 
+## El candado
+
+**Cada afirmación lleva su ruta.** `experts/<experto>/wiki/<pagina>.md`, no el nombre suelto.
+Si no puedes citarla, no la digas.
+
+Antes de responder, comprueba las tres:
+
+1. **Abriste al menos una página de cada uno de los cinco brains.** No una lista: archivos
+   abiertos.
+2. **Cada recomendación cita la ruta de donde sale.**
+3. **Si los cinco no cubren el tema, lo dijiste** en vez de rellenar con lo que suena bien.
+
+Listar las páginas del Paso 0 **no es haberlas leído**. Si tu respuesta se podría haber escrito
+sin abrir un solo archivo, no has usado el repo — y ese es el fallo exacto que esta skill existe
+para impedir. Ha pasado ya.
+
+Si el repo no está disponible, dilo y para. No respondas de memoria.
+
 ## Paso 0 · Los cinco, siempre
 
 No respondas desde uno solo. Barre `experts/alex-hormozi/wiki/`, `experts/brian-tracy/wiki/`,

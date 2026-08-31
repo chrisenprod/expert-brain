@@ -18,6 +18,24 @@ opuestas.
 Fichas que actualiza: `work/mi-marca/02-audiencia.md`, `07-sistema-de-contenido.md`,
 `09-metricas.md`, `diagnostico.md`.
 
+## El candado
+
+**Cada afirmación lleva su ruta.** `experts/<experto>/wiki/<pagina>.md`, no el nombre suelto.
+Si no puedes citarla, no la digas.
+
+Antes de responder, comprueba las tres:
+
+1. **Abriste al menos una página de cada uno de los cinco brains.** No una lista: archivos
+   abiertos.
+2. **Cada recomendación cita la ruta de donde sale.**
+3. **Si los cinco no cubren el tema, lo dijiste** en vez de rellenar con lo que suena bien.
+
+Listar las páginas del Paso 0 **no es haberlas leído**. Si tu respuesta se podría haber escrito
+sin abrir un solo archivo, no has usado el repo — y ese es el fallo exacto que esta skill existe
+para impedir. Ha pasado ya.
+
+Si el repo no está disponible, dilo y para. No respondas de memoria.
+
 ## Paso 0 · Lee los cinco
 
 - **Heras** — `ratios-de-diagnostico`, `cuenta-intoxicada`, `cuenta-validada`, `idea-ganadora`,
@@ -33,6 +51,44 @@ Fichas que actualiza: `work/mi-marca/02-audiencia.md`, `07-sistema-de-contenido.
 - **Tracy** — `persistencia`, `dieta-mental`
 - **Centro** — `el-gran-desacuerdo`, `contenido-amplio-o-especifico`, `repetir-pocas-ideas`,
   `volumen-y-ejecucion`, `el-fracaso-como-dato`
+
+## Rama · "dame ideas de contenido"
+
+Es la petición más común y la que más fácil se responde sin abrir nada. **Dos listas distintas:
+unas páginas generan, otras filtran.** Se leen las dos, en este orden.
+
+### Generar
+
+- `experts/emilio-puigrredon/wiki/nutricion-por-paradigmas.md` — el molde: **creencia falsa →
+  por qué está equivocada → tensión abierta**. Enseñar el *porqué*, no el *qué*.
+- `experts/caleb-ralston/wiki/problema-doloroso-mas-solucion.md` — el dolor tiene que ser real,
+  no supuesto.
+- `experts/victor-heras/wiki/idea-ganadora.md` — solo el 5% de lo que sabes le interesa a
+  alguien, y está en lo común. Referencias: **róbate la lógica, no el vídeo**.
+- `experts/alex-hormozi/wiki/seis-cambios-de-contenido.md` — asume que no te conocen.
+
+**Nunca generes por categoría** ("te faltan logs"). Genera por **el síntoma que la persona
+siente** ("te avisó un usuario"). Es el error registrado en el molde de arriba.
+
+### Filtrar
+
+Cada idea pasa las cuatro o se cae. Di cuál falla y por qué:
+
+- `experts/victor-heras/wiki/filtro-550.md` — que lo entienda un niño de 5 años y le interese al
+  50%. Si no pasa las dos, no importa cuánto trabajo lleve.
+- `experts/victor-heras/wiki/seguidor-ideal.md` — ¿le habla al espectador cero o a la primera
+  fila del gremio?
+- `experts/super-expert-brain/wiki/repetir-pocas-ideas.md` — máximo tres temas. Una idea que
+  abre un cuarto tema se cae, aunque sea buena.
+- `experts/brian-tracy/wiki/la-roca.md` — ¿ataca el obstáculo principal o uno pequeño?
+
+### Antes de listar nada
+
+**¿A quién le habla?** Si `work/mi-marca/02-audiencia.md` está vacía y el usuario no tiene su
+propio ADN de marca, para y respóndela primero. Generar ideas sin avatar es inventar.
+
+Y si el usuario tiene un cerebro de marca propio, **manda el suyo**: lo vetado ahí se descarta
+antes de pasar por estos filtros, no después.
 
 ## Paso 1 · Si traen números, diagnostica primero
 

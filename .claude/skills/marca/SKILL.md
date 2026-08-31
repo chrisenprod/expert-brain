@@ -17,6 +17,24 @@ para rellenar la ficha: es el mismo trabajo.
 Fichas que actualiza: `work/mi-marca/01-credibilidad.md`, `05-posicionamiento.md`,
 `06-voz-y-personaje.md`.
 
+## El candado
+
+**Cada afirmación lleva su ruta.** `experts/<experto>/wiki/<pagina>.md`, no el nombre suelto.
+Si no puedes citarla, no la digas.
+
+Antes de responder, comprueba las tres:
+
+1. **Abriste al menos una página de cada uno de los cinco brains.** No una lista: archivos
+   abiertos.
+2. **Cada recomendación cita la ruta de donde sale.**
+3. **Si los cinco no cubren el tema, lo dijiste** en vez de rellenar con lo que suena bien.
+
+Listar las páginas del Paso 0 **no es haberlas leído**. Si tu respuesta se podría haber escrito
+sin abrir un solo archivo, no has usado el repo — y ese es el fallo exacto que esta skill existe
+para impedir. Ha pasado ya.
+
+Si el repo no está disponible, dilo y para. No respondas de memoria.
+
 ## Paso 0 · Lee los cinco
 
 Es lo que la separa de pedirle una opinión a un modelo. Entra por aquí y sigue los enlaces:
