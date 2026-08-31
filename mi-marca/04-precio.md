@@ -12,14 +12,14 @@ contraintuitiva: **si consigues el resultado en menos tiempo, tu oferta vale má
 
 *Lee: [[negocio-de-una-persona]] · [[vender-el-espejo]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~200 caracteres)*
 
 
 ### 2. Tu ticket
 
 *Lee: [[precio-y-ticket]] · [[sistema-2-20-2000]] · [[ajuste-de-precio]]*
 
-**Tu precio, y qué incluye:**
+**Tu precio, y qué incluye:** *(~250 caracteres)*
 
 
 ### 3. Haz la cuenta hacia atrás
@@ -27,7 +27,7 @@ contraintuitiva: **si consigues el resultado en menos tiempo, tu oferta vale má
 Con tu ticket, ¿cuánta gente necesitas arriba para llegar a tu objetivo? Los ratios que usan:
 ~1% de quien te ve muestra interés, ~1% de esos da el siguiente paso.
 
-**Tu aritmética:**
+**Tu aritmética:** *(~300 caracteres)*
 
 
 ### 4. ¿Tienes plan anual?
@@ -35,7 +35,7 @@ Con tu ticket, ¿cuánta gente necesitas arriba para llegar a tu objetivo? Los r
 Se decide una vez en lugar de doce, y el comprador anual está más comprometido. Descuento típico:
 paga diez, llevas doce.
 
-**Tu respuesta:**
+**Tu respuesta:** *(~150 caracteres)*
 
 
 ## Lo que hay que entender antes de decidir

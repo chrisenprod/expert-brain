@@ -13,28 +13,28 @@ El resultado que justifica el tiempo, el dinero y la exposición que vas a inver
 
 *Lee: [[brand-journey-framework]] · [[siete-preguntas]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ### 2. ¿Por qué tendrías que ser conocido para que eso pase?
 
 Qué reputación hace falta. No qué te gustaría, qué **hace falta**.
 
-**Tu respuesta:**
+**Tu respuesta:** *(~200 caracteres)*
 
 
 ### 3. ¿Qué tendrías que hacer para ser conocido por eso?
 
 Se es conocido por hacer cosas, no por hablar de ellas.
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ### 4. ¿Qué tendrías que aprender para poder hacerlo?
 
 Esto te devuelve a hoy. Es tu hoja de ruta.
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ## Si te atascas

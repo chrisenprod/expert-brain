@@ -12,7 +12,7 @@ esa referencia**, no contra un número absoluto. No "esto tiene 100.000 visitas"
 
 *Lee: [[biblioteca-de-packaging]] · [[calidad-la-decide-la-audiencia]]*
 
-**Tu referencia:**
+**Tu referencia:** *(~150 caracteres)*
 
 
 ### 2. Tus ratios de salud
@@ -22,7 +22,7 @@ dice si estás llegando fuera o hablándole a los de siempre.
 
 *Lee: [[ratios-de-diagnostico]] · [[cuenta-validada]]*
 
-**Tus números de hoy:**
+**Tus números de hoy:** *(~200 caracteres)*
 
 
 ### 3. Tu retención
@@ -32,7 +32,7 @@ el día 30, el día 90 y el mes seis — y son tres problemas distintos.
 
 *Lee: [[retencion]] · [[ciclo-de-vida-del-seguidor]]*
 
-**Tu número:**
+**Tu número:** *(~100 caracteres)*
 
 
 ### 4. De dónde vino cada venta
@@ -41,7 +41,7 @@ Sin esto, todo lo anterior son números bonitos.
 
 *Lee: [[atribucion]] · [[roas]]*
 
-**Cómo lo mides:**
+**Cómo lo mides:** *(~250 caracteres)*
 
 
 ## Qué hacer con esto cada mes

@@ -30,6 +30,8 @@ Con estas cuatro ya tienes marca. El resto se llena cuando duela la falta.
 ## Cómo usarlas
 
 1. Responde debajo de cada pregunta. Sin adornos: frases que puedas leer dentro de seis meses.
+   El *(~300 caracteres)* de cada hueco es la extensión que suele hacer falta, no un límite: si te
+   sale la mitad, probablemente falta concretar; si te sale el triple, todavía no has decidido.
 2. Si no puedes responder una, ahí está la lectura que falta. Léela y vuelve.
 3. Cada ficha termina con **cómo saber que está bien**. Si no pasa esa prueba, no está.
 4. Vuelve a [[09-metricas]] cada mes. Las demás, cuando cambie algo de verdad.

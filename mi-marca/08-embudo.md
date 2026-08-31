@@ -10,7 +10,7 @@ No todos rinden igual ni sirven para lo mismo. Empieza por el ranking antes de i
 
 *Lee: [[ranking-de-embudos]] · [[embudo-de-instagram]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~200 caracteres)*
 
 
 ### 2. Tu llamada a la acción
@@ -20,7 +20,7 @@ hablar con nadie.
 
 *Lee: [[embudo-de-instagram]] · [[social-funnel]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~150 caracteres)*
 
 
 ### 3. Cómo calientas antes de vender
@@ -30,7 +30,7 @@ venta: historias, secuencia, recurso, webinar.
 
 *Lee: [[embudos-de-confianza]] · [[preparar-stories]] · [[nutricion-por-paradigmas]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~400 caracteres)*
 
 
 ### 4. Tu conversación de venta
@@ -40,7 +40,7 @@ sacas a la luz variables que el cliente no había considerado.
 
 *Lee: [[proceso-de-venta]] · [[webinar-estructurado]] · [[sistemas-de-backend]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~500 caracteres)*
 
 
 ### 5. ¿De dónde vienen tus mejores clientes?
@@ -50,7 +50,7 @@ veinte de ellos?
 
 *Lee: [[integrarse-en-el-canal-de-otro]] · [[motor-de-referidos]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ## Antes de tocar el tráfico

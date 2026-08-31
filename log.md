@@ -294,3 +294,14 @@ autoconcepto que reprogramar; para Hormozi es información correcta.
 El otro hallazgo es que `probabilidad-de-exito` de Emilio, que estaba archivado como página de
 precio, es la ley de la expectativa de Tracy aplicada al comprador — y la única versión del vault
 donde la creencia se fabrica con data en vez de con afirmaciones.
+
+## [2026-08-30] fichas | Extensión esperada en cada hueco de mi-marca
+
+Faltaba la señal de cuánto escribir: quien clona el repo se encuentra 50 huecos en blanco sin
+saber si se espera una frase o media página. Cada hueco lleva ahora la extensión típica —
+`*(~300 caracteres)*` para prosa, `*(10 líneas, ~80 caracteres cada una)*` para listas — y
+`mi-marca.md` explica que es una referencia, no un límite: la mitad suele significar que falta
+concretar, el triple que la decisión no está tomada.
+
+De paso, `banner.png` (1,3 MB) pasa a `banner.webp` (126 KB, `cwebp -q 88`), y se corrige "doce
+fichas" por "once" en el README — son 00 a 10.

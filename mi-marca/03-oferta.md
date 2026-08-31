@@ -12,7 +12,7 @@ le interesa a nadie, pero tienes que tenerlo claro.
 
 *Lee: [[negocio-de-una-persona]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ### 2. Tu oferta: ¿qué prometes?
@@ -21,7 +21,7 @@ La transformación. De qué punto A a qué punto B llevas a la persona, y en cu�
 
 *Lee: [[oferta-y-promesa]] · [[vender-el-espejo]]*
 
-**Escríbela sin usar las palabras _sesiones_, _horas_, _curso_ ni _módulos_:**
+**Escríbela sin usar las palabras _sesiones_, _horas_, _curso_ ni _módulos_:** *(~200 caracteres, una frase)*
 
 
 ### 3. ¿Por qué no eres comparable?
@@ -31,7 +31,7 @@ cuenta y tu competencia no menciona: velocidad, riesgo, facilidad.
 
 *Lee: [[el-problema-del-commodity]]*
 
-**Tus variables:**
+**Tus variables:** *(3-6 líneas, ~60 caracteres cada una)*
 -
 -
 -
@@ -44,7 +44,7 @@ nombraste suele costar poco y cambiar el negocio.
 
 *Lee: [[oferta-y-promesa]] · [[las-cinco-ventajas]]*
 
-**Tu VIP y tu estándar:**
+**Tu VIP y tu estándar:** *(~400 caracteres)*
 
 
 ## La prueba de fuego

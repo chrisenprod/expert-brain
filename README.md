@@ -1,4 +1,4 @@
-![expert-brain](banner.png)
+![expert-brain](banner.webp)
 
 # expert-brain
 
@@ -55,7 +55,7 @@ y el linaje entre ellos.
 
 ## Empieza por aquí
 
-Clona el repo, ábrelo en Obsidian y ve a **[`mi-marca/`](mi-marca/)**. Son doce fichas en blanco
+Clona el repo, ábrelo en Obsidian y ve a **[`mi-marca/`](mi-marca/)**. Son once fichas en blanco
 —destino, audiencia, oferta, voz, contenido, embudo, precio, métricas, tu filtro— y cada una trae
 enlazadas las páginas de los cinco expertos que responden esa pregunta.
 
@@ -152,7 +152,7 @@ expert-brain/
 │   ├── raw/transcripciones/     una ficha por fuente: título, autor, enlace al vídeo
 │   └── wiki/                    destilado, citando la ficha en cada afirmación
 ├── super-expert-brain/wiki/     el cruce entre los cinco: contradicciones, consensos, linaje
-├── mi-marca/                    doce fichas en blanco para rellenar con lo tuyo
+├── mi-marca/                    once fichas en blanco para rellenar con lo tuyo
 ├── log.md                       qué se hizo y cuándo
 └── scripts/ingest.py            regenera el texto de las fuentes en local
 ```

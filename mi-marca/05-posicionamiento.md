@@ -11,7 +11,7 @@ o una **forma de actuar** — las dos valen.
 
 *Lee: [[enemigo-comun]] · [[resultados-que-respaldan]] (el océano azul)*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ### 2. Conviértela en enemigo común
@@ -25,7 +25,7 @@ funciona a corto plazo y en contra a largo.
 
 *Lee: [[enemigo-comun]] · [[errores-a-evitar]]*
 
-**Tu enemigo común:**
+**Tu enemigo común:** *(~200 caracteres, una frase)*
 
 
 ### 3. ¿Qué término vas a redefinir?
@@ -36,7 +36,7 @@ baratos que existen.
 
 *Lee: [[redefinir-terminos]] · [[nombrar-tus-conceptos]]*
 
-**Tu término y tu definición:**
+**Tu término y tu definición:** *(~250 caracteres)*
 
 
 ### 4. Tus dos asociaciones a favor y dos en contra
@@ -46,8 +46,8 @@ casi nadie las trabaja.
 
 *Lee: [[marca-como-emparejamiento]] · [[no-todas-las-visitas-son-buenas]]*
 
-**A favor:**
-**En contra:**
+**A favor:** *(2 líneas, ~80 caracteres cada una)*
+**En contra:** *(2 líneas, ~80 caracteres cada una)*
 
 
 ## Cómo saber que está bien

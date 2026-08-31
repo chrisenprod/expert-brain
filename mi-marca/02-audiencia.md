@@ -11,7 +11,7 @@ El que ya sabe que tiene el problema, cómo resolverlo y con quién. El que comp
 
 *Lee: [[negocio-de-una-persona]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ### 2. ¿Quién es tu seguidor ideal?
@@ -21,7 +21,7 @@ problema o un deseo, todavía no sabe que va a comprarte, y es a quien va dirigi
 
 *Lee: [[seguidor-ideal]] · [[teoria-del-faro]] (el espectador cero)*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ### 3. ¿En qué nivel de conciencia está?
@@ -31,7 +31,7 @@ trabajan: **el 90% está en 0 y 1**.
 
 *Lee: [[niveles-de-conciencia]] · [[nutricion-por-paradigmas]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~150 caracteres)*
 
 
 ### 4. Sus diez problemas más dolorosos
@@ -40,7 +40,7 @@ Concretos y en sus palabras, no en las tuyas.
 
 *Lee: [[problema-doloroso-mas-solucion]]*
 
-**Tu lista:**
+**Tu lista:** *(10 líneas, ~80 caracteres cada una)*
 1.
 2.
 3.
@@ -57,7 +57,7 @@ después.
 No es un empate: depende de tu ticket y de tu plazo. Léelo entero en [[el-gran-desacuerdo]] y
 [[contenido-amplio-o-especifico]] antes de decidir.
 
-**Tu decisión, y por qué:**
+**Tu decisión, y por qué:** *(~400 caracteres)*
 
 
 ## En lo que sí coinciden los cinco

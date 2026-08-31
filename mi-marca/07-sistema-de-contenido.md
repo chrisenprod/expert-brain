@@ -12,7 +12,7 @@ vas a mantener.
 
 *Lee: [[medio-y-plataforma]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~100 caracteres)*
 
 
 ### 2. Tu plataforma primaria y la secundaria
@@ -20,7 +20,7 @@ vas a mantener.
 Una donde pones el esfuerzo y creas el contenido pilar; otra donde redistribuyes. Si tienes
 equipo, tres primarias y el foco rotando entre ellas.
 
-**Tu respuesta:**
+**Tu respuesta:** *(~150 caracteres)*
 
 
 ### 3. Tu contenido pilar
@@ -30,7 +30,7 @@ sirviendo lo descubran cuando lo descubran.
 
 *Lee: [[distribucion-en-cascada]] · [[reels-nutren-stories-cierran]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~250 caracteres)*
 
 
 ### 4. Tu cadencia de arranque
@@ -39,7 +39,7 @@ Menos importa con cuánto empiezas que **cada cuánto lo subes**. Empieza por lo
 
 *Lee: [[calidad-la-decide-la-audiencia]] · [[metodo-acordeon]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~150 caracteres)*
 
 
 ### 5. Tu reparto 70-20-10
@@ -51,7 +51,7 @@ lo actual.
 
 *Lee: [[70-20-10]] · [[la-fotocopiadora]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ### 6. De dónde salen tus ideas
@@ -61,7 +61,7 @@ Problema doloroso + tu solución. Y guarda las referencias de packaging que te l
 
 *Lee: [[problema-doloroso-mas-solucion]] · [[biblioteca-de-packaging]] · [[idea-ganadora]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~300 caracteres)*
 
 
 ## El principio que hay debajo

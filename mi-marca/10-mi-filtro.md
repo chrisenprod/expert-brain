@@ -12,7 +12,7 @@ brain los lleva escritos en su página `como-leer-a-…`.
 
 Mecanismos de oficio que funcionan sea cual sea tu tema.
 
-**Tu lista:**
+**Tu lista:** *(5-10 líneas, ~80 caracteres cada una)*
 -
 -
 
@@ -21,7 +21,7 @@ Mecanismos de oficio que funcionan sea cual sea tu tema.
 
 Lo que aplica pero cambiando el registro, el canal, el ticket o el tono.
 
-**Tu lista, con la traducción:**
+**Tu lista, con la traducción:** *(5-10 líneas, ~120 caracteres cada una)*
 -
 -
 
@@ -31,7 +31,7 @@ Lo que aplica pero cambiando el registro, el canal, el ticket o el tono.
 Lo que choca con tu situación, tu ética o tu mercado. Escribe **por qué**, o dentro de tres meses
 vuelves a discutirlo contigo mismo.
 
-**Tu lista, con el motivo:**
+**Tu lista, con el motivo:** *(3-8 líneas, ~120 caracteres cada una)*
 -
 -
 

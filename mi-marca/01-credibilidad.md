@@ -14,7 +14,7 @@ Los dos funcionan. Lo que quema la confianza para siempre es ser estudiante fing
 
 *Lee: [[estudiante-o-experto]]*
 
-**Tu respuesta:**
+**Tu respuesta:** *(~200 caracteres)*
 
 
 ### 2. Tu banco de credibilidad
@@ -24,7 +24,7 @@ aprendiste**. Los fallos pesan tanto como las victorias: demuestran experiencia 
 
 *Lee: [[banco-de-credibilidad]] · [[resultados-que-respaldan]]*
 
-**Tu lista:**
+**Tu lista:** *(8-15 líneas, ~100 caracteres cada una)*
 -
 -
 -
@@ -36,9 +36,9 @@ Casi nadie es experto en todo lo que le apetece opinar. Escribe las dos listas.
 
 *Lee: [[la-verdad-vende-mas]] · [[la-prueba-como-foso]]*
 
-**Autoridad:**
+**Autoridad:** *(3-6 áreas, ~120 caracteres)*
 
-**Sin autoridad:**
+**Sin autoridad:** *(3-6 áreas, ~120 caracteres)*
 
 
 ## Si tu banco no te impresiona
