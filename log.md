@@ -305,3 +305,27 @@ concretar, el triple que la decisión no está tomada.
 
 De paso, `banner.png` (1,3 MB) pasa a `banner.webp` (126 KB, `cwebp -q 88`), y se corrige "doce
 fichas" por "once" en el README — son 00 a 10.
+
+## [2026-08-30] skills | Dos comandos, no once plantillas
+
+La primera idea era una skill que llevara por las fichas de `mi-marca/`. Se descartó: las fichas
+ya traen dentro qué leer y cómo saber si están bien, y `CLAUDE.md` se carga solo al abrir el
+repo. Una skill que solo diga "cita tus fuentes" es una cuarta capa que se desincroniza.
+
+El criterio que quedó: **una skill vale si el vault tiene un test que puedes fallar.** Leer
+cuatro páginas es una receta. Aplicar un umbral y decir "esto no pasa" es una skill.
+
+Con ese filtro salen dos, de las ocho recetas del README:
+
+- **`/diagnostico`** — `ratios-de-diagnostico` tiene umbrales duros y `cuenta-intoxicada` una
+  tabla de tres estados. Lo que la skill añade sobre leer las páginas son los tres avisos: el
+  error de diagnóstico de Heras en el caso Bernardo, su corrección pública sobre la
+  desintoxicación, y que Emilio lo contradice de frente sobre anuncios.
+- **`/oferta`** — el orden de `arreglar-de-atras-hacia-adelante` más el test de
+  `vender-el-espejo`, que es de los pocos del vault con un resultado binario.
+
+Las otras seis recetas se quedan como recetas: `voz`, `diferenciarte`, `avatar` y `operador` no
+tienen umbral, así que la skill no haría nada que no haga leer las páginas.
+
+Las dos leen las fuentes en el paso 0 y no copian los umbrales dentro de la skill, por la misma
+razón por la que el centro no lleva resúmenes: se desincronizarían a la primera corrección.

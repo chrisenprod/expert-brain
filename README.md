@@ -121,6 +121,25 @@ Cada una es una secuencia de páginas en orden. Léelas seguidas.
 3. `brian-tracy/wiki/doce-pasos-hacia-la-meta` — la metodología
 4. `brian-tracy/wiki/la-roca` — el obstáculo principal, no los pequeños
 
+### Con dos comandos
+
+Si lo abres con Claude Code, el repo trae dos skills. No son buscadores: cada una corre una
+secuencia de pruebas que se pasan o se fallan, y la primera que falla es el hallazgo.
+
+**`/diagnostico`** — por qué tu cuenta no crece. Le das cinco números y te sitúa en la tabla de
+Heras: saludable, crítica o intoxicada. Sirve para separar el problema del contenido del
+problema de la cuenta, que llevan a acciones opuestas.
+
+Trae los avisos que evitan el consejo caro: Heras se equivocó diagnosticando el caso Bernardo,
+se corrigió en público sobre si una cuenta se puede desintoxicar, y Emilio lo contradice de
+frente sobre los anuncios. La skill trae las dos posturas.
+
+**`/oferta`** — qué vendes y cómo lo cuentas, en el orden de Hormozi: oferta → conversión →
+a quién → tráfico. Su prueba central es escribir tu promesa sin las palabras *sesiones*,
+*horas*, *curso* ni *módulos*. Si no puedes, ahí está el problema, y no es de marketing.
+
+Las dos leen las páginas antes de responder, y ninguna decide por ti.
+
 ### Con un agente
 
 Está pensado para leerse con un agente de IA apuntando a la carpeta. Funciona bien porque cada
@@ -174,6 +193,7 @@ expert-brain/
 │   └── wiki/                    destilado, citando la ficha en cada afirmación
 ├── super-expert-brain/wiki/     el cruce entre los cinco: contradicciones, consensos, linaje
 ├── mi-marca/                    once fichas en blanco para rellenar con lo tuyo
+├── .claude/skills/              /diagnostico y /oferta, para Claude Code
 ├── img/                         capturas del grafo para este README
 ├── log.md                       qué se hizo y cuándo
 └── scripts/ingest.py            regenera el texto de las fuentes en local
