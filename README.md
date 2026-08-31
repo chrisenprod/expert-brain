@@ -121,24 +121,31 @@ Cada una es una secuencia de páginas en orden. Léelas seguidas.
 3. `brian-tracy/wiki/doce-pasos-hacia-la-meta` — la metodología
 4. `brian-tracy/wiki/la-roca` — el obstáculo principal, no los pequeños
 
-### Con dos comandos
+### Con comandos
 
-Si lo abres con Claude Code, el repo trae dos skills. No son buscadores: cada una corre una
-secuencia de pruebas que se pasan o se fallan, y la primera que falla es el hallazgo.
+Si lo abres con Claude Code, el repo trae cinco skills. **Las cinco leen a los cinco expertos** —
+si una respuesta sale de uno solo, no has usado el repo — y las cinco escriben en `mi-marca/`.
 
-**`/diagnostico`** — por qué tu cuenta no crece. Le das cinco números y te sitúa en la tabla de
-Heras: saludable, crítica o intoxicada. Sirve para separar el problema del contenido del
-problema de la cuenta, que llevan a acciones opuestas.
+| Comando | Para qué | Fichas que toca |
+|---|---|---|
+| `/marca` | Quién eres y cómo suenas | credibilidad · posicionamiento · voz |
+| `/contenido` | Qué publicas y por qué no llega | audiencia · contenido · métricas · diagnóstico |
+| `/ventas` | Qué vendes y a cuánto | oferta · precio · embudo |
+| `/mentalidad` | El operador: metas, foco, bloqueo | destino |
+| `/preguntar` | Cualquier cosa que cruce varias | la que toque |
 
-Trae los avisos que evitan el consejo caro: Heras se equivocó diagnosticando el caso Bernardo,
-se corrigió en público sobre si una cuenta se puede desintoxicar, y Emilio lo contradice de
-frente sobre los anuncios. La skill trae las dos posturas.
+No hay que saber cómo se llama tu problema: disparan con el síntoma. *"Me comparan solo por
+precio"* entra por `/ventas`; *"publico todos los días y no pasa nada"* por `/contenido`.
 
-**`/oferta`** — qué vendes y cómo lo cuentas, en el orden de Hormozi: oferta → conversión →
-a quién → tráfico. Su prueba central es escribir tu promesa sin las palabras *sesiones*,
-*horas*, *curso* ni *módulos*. Si no puedes, ahí está el problema, y no es de marketing.
+Y hacen las dos cosas en el mismo sitio: le preguntas y te responde con citas, o le dices "vamos
+a definir mi voz" y te lleva por la ficha. Preguntar y decidir es el mismo trabajo.
 
-Las dos leen las páginas antes de responder, y ninguna decide por ti.
+**Lo que ninguna hace es decidir por ti.** Una respuesta por turno, y nunca una que no hayas
+dicho o aprobado. Si la escribe la máquina, en seis meses estás sosteniendo en público una
+postura que no es tuya.
+
+Cuando discrepan, **el desacuerdo va antes que la respuesta**. Un consenso falso es peor que no
+responder.
 
 ### Con un agente
 
@@ -192,8 +199,9 @@ expert-brain/
 │   ├── raw/transcripciones/     una ficha por fuente: título, autor, enlace al vídeo
 │   └── wiki/                    destilado, citando la ficha en cada afirmación
 ├── super-expert-brain/wiki/     el cruce entre los cinco: contradicciones, consensos, linaje
-├── mi-marca/                    once fichas en blanco para rellenar con lo tuyo
-├── .claude/skills/              /diagnostico y /oferta, para Claude Code
+├── mi-marca/                    once fichas en blanco, más diagnostico e historial
+├── contenido/                   lo que produces: guiones, ganchos, borradores
+├── .claude/skills/              los cinco comandos, para Claude Code
 ├── img/                         capturas del grafo para este README
 ├── log.md                       qué se hizo y cuándo
 └── scripts/ingest.py            regenera el texto de las fuentes en local

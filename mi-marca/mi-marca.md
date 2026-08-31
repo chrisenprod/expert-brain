@@ -27,6 +27,11 @@ Con estas cuatro ya tienes marca. El resto se llena cuando duela la falta.
 - [[09-metricas]] — cómo sabes si va bien
 - [[10-mi-filtro]] — qué de estos cinco aplica a ti
 
+## Lo que no son fichas
+
+- [[diagnostico]] — no es una decisión, es una medición con fecha. Se repite y se compara.
+- [[historial]] — qué cambiaste y **por qué**. Lo escriben las skills al tocar una ficha.
+
 ## Cómo usarlas
 
 1. Responde debajo de cada pregunta. Sin adornos: frases que puedas leer dentro de seis meses.

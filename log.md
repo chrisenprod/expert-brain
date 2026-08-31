@@ -329,3 +329,32 @@ tienen umbral, así que la skill no haría nada que no haga leer las páginas.
 
 Las dos leen las fuentes en el paso 0 y no copian los umbrales dentro de la skill, por la misma
 razón por la que el centro no lleva resúmenes: se desincronizarían a la primera corrección.
+
+## [2026-08-30] skills | Cinco comandos por dominio, no por verbo
+
+Varias formas descartadas antes de dar con esta, y la razón por la que fallaban es la misma:
+`/empieza`, `/ficha` y `/diagnostico` se solapaban, porque el diagnóstico **es** por donde uno
+empieza y `/empieza` no era más que `/ficha` sobre todas las plantillas a la vez.
+
+Lo que lo resolvió fue cambiar el eje: **por dominio en vez de por verbo**. Con dominios,
+preguntar y decidir dejan de ser dos skills y pasan a ser la misma — le preguntas a `/marca` si
+tu bio funciona, o le dices que quieres definir tu voz, y es el mismo trabajo contra las mismas
+páginas.
+
+Cinco: `marca`, `contenido`, `ventas`, `mentalidad` y `preguntar` para lo que cruza.
+
+Dos reglas que llevan las cinco:
+
+- **Las cinco leen a los cinco expertos.** Un primer borrador asignaba dos expertos por skill y
+  se descartó: si tienes cinco y respondes con uno, no estás usando el repo.
+- **Cuando discrepan, el desacuerdo va antes que la respuesta.** Cada skill trae el conflicto de
+  su dominio ya localizado: `el-gran-desacuerdo` en contenido, `mentalidad-y-creencia` en marca y
+  mentalidad, el cruce Heras×Emilio del ticket en ventas.
+
+Y dos carpetas nuevas:
+
+- `mi-marca/historial.md` — un archivo, no una carpeta: un changelog se lee de arriba abajo y una
+  carpeta no se lee nunca. Guarda **por qué** cambiaste de opinión, que es lo que se pierde.
+- `contenido/` — la producción, fuera de `mi-marca/` porque son once decisiones y esto son
+  guiones. Con una regla: cada pieza enlaza a la ficha que la justifica, para que el grafo enseñe
+  qué decisiones producen trabajo y cuáles llevan meses sin parir nada.
