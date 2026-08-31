@@ -5,7 +5,7 @@ Regenera las transcripciones de expert-brain en local.
     pip install yt-dlp   (o brew install yt-dlp)
     python3 scripts/ingest.py
 
-Deja un .txt por fuente en <experto>/raw/texto/, que es el texto corrido de la fuente.
+Deja un .txt por fuente en experts/<experto>/raw/texto/, que es el texto corrido de la fuente.
 No se publica en el repo: es obra de sus autores. Las fichas que el wiki cita, en
 <experto>/raw/transcripciones/, sí están versionadas y este script no las toca.
 
@@ -16,13 +16,13 @@ import json, subprocess, glob, os, re, sys, time, textwrap
 
 XARGS = "youtube:player_client=web_embedded"
 CANALES = {
-    "alex-hormozi":       ("https://www.youtube.com/@AlexHormozi/videos",      "en"),
-    "caleb-ralston":      ("https://www.youtube.com/@CalebRalston/videos",     "en"),
-    "victor-heras-brain": ("https://www.youtube.com/@Victorherasmedia/videos", "es"),
-    "emilio-puigrredon":  ("https://www.youtube.com/@EmilioPuigrredon/videos", "es"),
+    "experts/alex-hormozi":       ("https://www.youtube.com/@AlexHormozi/videos",      "en"),
+    "experts/caleb-ralston":      ("https://www.youtube.com/@CalebRalston/videos",     "en"),
+    "experts/victor-heras":       ("https://www.youtube.com/@Victorherasmedia/videos", "es"),
+    "experts/emilio-puigrredon":  ("https://www.youtube.com/@EmilioPuigrredon/videos", "es"),
 }
 # Brian Tracy es un solo vídeo de 11 h partido por sus 25 capítulos
-SEMINARIO = ("brian-tracy", "https://www.youtube.com/watch?v=zUxj7J8HttM", "es")
+SEMINARIO = ("experts/brian-tracy", "https://www.youtube.com/watch?v=zUxj7J8HttM", "es")
 
 
 def yt(args):

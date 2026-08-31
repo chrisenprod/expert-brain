@@ -15,7 +15,7 @@ Qué publicas, a quién, y por qué no llega. Incluye el diagnóstico de cuenta,
 siempre se cree que el problema es el contenido cuando es la cuenta**, y llevan a acciones
 opuestas.
 
-Fichas que actualiza: `mi-marca/02-audiencia.md`, `07-sistema-de-contenido.md`,
+Fichas que actualiza: `work/mi-marca/02-audiencia.md`, `07-sistema-de-contenido.md`,
 `09-metricas.md`, `diagnostico.md`.
 
 ## Paso 0 · Lee los cinco
@@ -41,7 +41,7 @@ Pide cinco: seguidores, vistas de historias, media de los **últimos nueve** ree
 como la más importante.
 
 Calcula los ratios, sitúa la cuenta en la tabla de `cuenta-intoxicada` y corre las seis señales
-de `cuenta-validada`. Escribe el resultado con fecha en `mi-marca/diagnostico.md`.
+de `cuenta-validada`. Escribe el resultado con fecha en `work/mi-marca/diagnostico.md`.
 
 **Los tres avisos, obligatorios antes de recomendar cuenta nueva:**
 
@@ -58,7 +58,7 @@ tramo, no la cifra, y dilo.
 
 **Heras dice que aportar valor no vende. Ralston dice que la confianza se construye resolviendo
 problemas dolorosos.** Es el choque más fuerte del repo y está resuelto en
-`super-expert-brain/wiki/el-gran-desacuerdo.md`: no discuten sobre el valor, discuten sobre
+`experts/super-expert-brain/wiki/el-gran-desacuerdo.md`: no discuten sobre el valor, discuten sobre
 **dónde se pone el filtro**, y lo decide el ticket y el plazo.
 
 Tráelo entero antes de recomendar amplio o específico. No elijas tú.
@@ -78,7 +78,7 @@ que funcionan y machacarlas.
 
 ## Paso 4 · Escribe
 
-Ficha correspondiente + `mi-marca/historial.md` con el porqué. Una respuesta por turno.
+Ficha correspondiente + `work/mi-marca/historial.md` con el porqué. Una respuesta por turno.
 
 ## Lo que no debes hacer
 

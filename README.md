@@ -40,22 +40,22 @@ Las recetas concretas están abajo.
 
 | Experto | Qué cubre | Fuentes |
 |---|---|---|
-| [Brian Tracy](brian-tracy/) — Seminario Fénix | El operador: metas, autoconcepto, persistencia | 25 módulos |
-| [Víctor Heras](victor-heras-brain/) | La atención: algoritmo, formato, ganchos, diagnóstico | 19 |
-| [Caleb Ralston](caleb-ralston/) | La confianza: marca, worldbuilding, prueba | 27 |
-| [Emilio Puigrredon](emilio-puigrredon/) | La conversión: embudos, webinars, stories, precio | 17 |
-| [Alex Hormozi](alex-hormozi/) | El negocio: oferta, retención, márgenes, estructura | 21 |
+| [Brian Tracy](experts/brian-tracy/) — Seminario Fénix | El operador: metas, autoconcepto, persistencia | 25 módulos |
+| [Víctor Heras](experts/victor-heras/) | La atención: algoritmo, formato, ganchos, diagnóstico | 19 |
+| [Caleb Ralston](experts/caleb-ralston/) | La confianza: marca, worldbuilding, prueba | 27 |
+| [Emilio Puigrredon](experts/emilio-puigrredon/) | La conversión: embudos, webinars, stories, precio | 17 |
+| [Alex Hormozi](experts/alex-hormozi/) | El negocio: oferta, retención, márgenes, estructura | 21 |
 
 Ninguno cubre los cinco tramos. Juntos sí.
 
-**[super-expert-brain/](super-expert-brain/)** es el centro: dónde se contradicen, dónde coinciden,
+**[experts/super-expert-brain/](experts/super-expert-brain/)** es el centro: dónde se contradicen, dónde coinciden,
 y el linaje entre ellos.
 
 ---
 
 ## Empieza por aquí
 
-Clona el repo, ábrelo en Obsidian y ve a **[`mi-marca/`](mi-marca/)**. Son once fichas en blanco
+Clona el repo, ábrelo en Obsidian y ve a **[`work/mi-marca/`](work/mi-marca/)**. Son once fichas en blanco
 —destino, audiencia, oferta, voz, contenido, embudo, precio, métricas, tu filtro— y cada una trae
 enlazadas las páginas de los cinco expertos que responden esa pregunta.
 
@@ -74,57 +74,57 @@ pensados para el negocio de otro.
 Cada una es una secuencia de páginas en orden. Léelas seguidas.
 
 **Definir tu oferta**
-1. `alex-hormozi/wiki/oferta-y-promesa` — producto contra oferta; inventar el nivel de arriba
-2. `alex-hormozi/wiki/el-problema-del-commodity` — dejar de competir por precio
-3. `victor-heras-brain/wiki/vender-el-espejo` — vender el resultado, no el proceso
-4. `super-expert-brain/wiki/precio-y-ticket-comparado` — qué ticket, según quién
+1. `experts/alex-hormozi/wiki/oferta-y-promesa` — producto contra oferta; inventar el nivel de arriba
+2. `experts/alex-hormozi/wiki/el-problema-del-commodity` — dejar de competir por precio
+3. `experts/victor-heras/wiki/vender-el-espejo` — vender el resultado, no el proceso
+4. `experts/super-expert-brain/wiki/precio-y-ticket-comparado` — qué ticket, según quién
 
 **Definir tu avatar**
-1. `victor-heras-brain/wiki/seguidor-ideal` — por qué tu cliente ideal no es tu audiencia
-2. `victor-heras-brain/wiki/niveles-de-conciencia` — el 90% no sabe que tiene el problema
-3. `caleb-ralston/wiki/problema-doloroso-mas-solucion` — el contraargumento
-4. `super-expert-brain/wiki/el-gran-desacuerdo` — cómo se resuelve la contradicción
+1. `experts/victor-heras/wiki/seguidor-ideal` — por qué tu cliente ideal no es tu audiencia
+2. `experts/victor-heras/wiki/niveles-de-conciencia` — el 90% no sabe que tiene el problema
+3. `experts/caleb-ralston/wiki/problema-doloroso-mas-solucion` — el contraargumento
+4. `experts/super-expert-brain/wiki/el-gran-desacuerdo` — cómo se resuelve la contradicción
 
 **Encontrar tu voz**
-1. `caleb-ralston/wiki/worldbuilding` — los siete elementos
-2. `alex-hormozi/wiki/factor-x` — rasgos raros que no suelen coexistir
-3. `caleb-ralston/wiki/contenido-con-alma` — lo que solo tú puedes hacer
-4. `victor-heras-brain/wiki/personaje-de-marca` — identificación, aspiración, reconocimiento
+1. `experts/caleb-ralston/wiki/worldbuilding` — los siete elementos
+2. `experts/alex-hormozi/wiki/factor-x` — rasgos raros que no suelen coexistir
+3. `experts/caleb-ralston/wiki/contenido-con-alma` — lo que solo tú puedes hacer
+4. `experts/victor-heras/wiki/personaje-de-marca` — identificación, aspiración, reconocimiento
 
 **Diferenciarte**
-1. `caleb-ralston/wiki/enemigo-comun` — postura contraria, no llamar la atención sobre otros
-2. `caleb-ralston/wiki/redefinir-terminos` — definiciones operativas como foso
-3. `alex-hormozi/wiki/la-prueba-como-foso` — qué te protege de la IA
-4. `victor-heras-brain/wiki/resultados-que-respaldan` — casos, no visitas
+1. `experts/caleb-ralston/wiki/enemigo-comun` — postura contraria, no llamar la atención sobre otros
+2. `experts/caleb-ralston/wiki/redefinir-terminos` — definiciones operativas como foso
+3. `experts/alex-hormozi/wiki/la-prueba-como-foso` — qué te protege de la IA
+4. `experts/victor-heras/wiki/resultados-que-respaldan` — casos, no visitas
 
 **Diagnosticar tu cuenta**
-1. `victor-heras-brain/wiki/ratios-de-diagnostico` — los umbrales
-2. `victor-heras-brain/wiki/cuenta-intoxicada` — saludable, crítica o intoxicada
-3. `victor-heras-brain/wiki/cuenta-validada` — las seis señales de despegue
+1. `experts/victor-heras/wiki/ratios-de-diagnostico` — los umbrales
+2. `experts/victor-heras/wiki/cuenta-intoxicada` — saludable, crítica o intoxicada
+3. `experts/victor-heras/wiki/cuenta-validada` — las seis señales de despegue
 
 **Montar tu sistema de contenido**
-1. `caleb-ralston/wiki/metodo-acordeon` — expandir para aprender, contraer para concentrar
-2. `caleb-ralston/wiki/70-20-10` — el reparto
-3. `caleb-ralston/wiki/distribucion-en-cascada` — pilar y micro
-4. `victor-heras-brain/wiki/la-fotocopiadora` — replicar lo que funcionó
-5. `super-expert-brain/wiki/el-fracaso-como-dato` — publicar es medir
+1. `experts/caleb-ralston/wiki/metodo-acordeon` — expandir para aprender, contraer para concentrar
+2. `experts/caleb-ralston/wiki/70-20-10` — el reparto
+3. `experts/caleb-ralston/wiki/distribucion-en-cascada` — pilar y micro
+4. `experts/victor-heras/wiki/la-fotocopiadora` — replicar lo que funcionó
+5. `experts/super-expert-brain/wiki/el-fracaso-como-dato` — publicar es medir
 
 **Construir tu embudo**
-1. `emilio-puigrredon/wiki/ranking-de-embudos` — cuál elegir
-2. `emilio-puigrredon/wiki/embudos-de-confianza` — calentar tráfico frío
-3. `alex-hormozi/wiki/webinar-estructurado` — la estructura
-4. `alex-hormozi/wiki/proceso-de-venta` — preguntar preferencias, no datos
+1. `experts/emilio-puigrredon/wiki/ranking-de-embudos` — cuál elegir
+2. `experts/emilio-puigrredon/wiki/embudos-de-confianza` — calentar tráfico frío
+3. `experts/alex-hormozi/wiki/webinar-estructurado` — la estructura
+4. `experts/alex-hormozi/wiki/proceso-de-venta` — preguntar preferencias, no datos
 
 **Ponerte en marcha (el operador)**
-1. `brian-tracy/wiki/siete-preguntas` — el ejercicio, repetible cada mes
-2. `brian-tracy/wiki/area-de-excelencia` — atención, interés, absorción
-3. `brian-tracy/wiki/doce-pasos-hacia-la-meta` — la metodología
-4. `brian-tracy/wiki/la-roca` — el obstáculo principal, no los pequeños
+1. `experts/brian-tracy/wiki/siete-preguntas` — el ejercicio, repetible cada mes
+2. `experts/brian-tracy/wiki/area-de-excelencia` — atención, interés, absorción
+3. `experts/brian-tracy/wiki/doce-pasos-hacia-la-meta` — la metodología
+4. `experts/brian-tracy/wiki/la-roca` — el obstáculo principal, no los pequeños
 
 ### Con comandos
 
 Si lo abres con Claude Code, el repo trae cinco skills. **Las cinco leen a los cinco expertos** —
-si una respuesta sale de uno solo, no has usado el repo — y las cinco escriben en `mi-marca/`.
+si una respuesta sale de uno solo, no has usado el repo — y las cinco escriben en `work/mi-marca/`.
 
 | Comando | Para qué | Fichas que toca |
 |---|---|---|
@@ -194,18 +194,26 @@ demás son los que más rinden, porque son coincidencias entre gente que no se c
 ```
 expert-brain/
 ├── expert-brain.md              entrada y centro del grafo
-├── <experto>/
-│   ├── <experto>.md             índice del brain
-│   ├── raw/transcripciones/     una ficha por fuente: título, autor, enlace al vídeo
-│   └── wiki/                    destilado, citando la ficha en cada afirmación
-├── super-expert-brain/wiki/     el cruce entre los cinco: contradicciones, consensos, linaje
-├── mi-marca/                    once fichas en blanco, más diagnostico e historial
-├── contenido/                   lo que produces: guiones, ganchos, borradores
+│
+├── experts/                     lo que lees — nunca se reescribe
+│   ├── <experto>/
+│   │   ├── <experto>.md         índice del brain y núcleo de su cúmulo
+│   │   ├── raw/transcripciones/ una ficha por fuente: título, autor, enlace al vídeo
+│   │   └── wiki/                destilado, citando la ficha en cada afirmación
+│   └── super-expert-brain/wiki/ el cruce entre los cinco
+│
+├── work/                        lo que escribes — es tuyo
+│   ├── mi-marca/                once fichas, más diagnostico.md e historial.md
+│   └── contenido/               guiones, ganchos, borradores
+│
 ├── .claude/skills/              los cinco comandos, para Claude Code
-├── img/                         capturas del grafo para este README
-├── log.md                       qué se hizo y cuándo
-└── scripts/ingest.py            regenera el texto de las fuentes en local
+├── scripts/ingest.py            regenera el texto de las fuentes en local
+├── img/  log.md
 ```
+
+El corte de la raíz es **lo que lees contra lo que escribes**. `experts/` se lee y no se toca;
+`work/` es tuyo y el repo no lo necesita para funcionar — puedes añadirlo a `.gitignore` si haces
+fork público.
 
 **Las transcripciones completas no están en el repo.** Son obra de sus autores, así que aquí solo
 va la síntesis, y `raw/transcripciones/` guarda una ficha por fuente con el enlace al vídeo.

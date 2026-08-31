@@ -14,7 +14,7 @@ description: >-
 Trabaja quién eres y cómo suenas, **con los cinco**. Sirve igual para una pregunta suelta que
 para rellenar la ficha: es el mismo trabajo.
 
-Fichas que actualiza: `mi-marca/01-credibilidad.md`, `05-posicionamiento.md`,
+Fichas que actualiza: `work/mi-marca/01-credibilidad.md`, `05-posicionamiento.md`,
 `06-voz-y-personaje.md`.
 
 ## Paso 0 · Lee los cinco
@@ -48,7 +48,7 @@ el reencuadre de Hormozi, que lo resuelve mejor que cualquier consejo de confian
 
 **Tracy dice que subas la creencia por encima de la evidencia. Ralston y Hormozi dicen que la
 bajes hasta que coincida con los hechos.** Está entero en
-`super-expert-brain/wiki/mentalidad-y-creencia.md`, con el criterio de cuál usar: Tracy hacia
+`experts/super-expert-brain/wiki/mentalidad-y-creencia.md`, con el criterio de cuál usar: Tracy hacia
 adentro cuando el freno es psicológico, los otros dos hacia afuera cuando hay audiencia
 escuchando.
 
@@ -71,7 +71,7 @@ Vuelca en la ficha que toque, debajo de su prompt, respetando la extensión que 
 respuesta por turno, y nunca una que la persona no haya dicho o aprobado** — si la escribes tú,
 en seis meses está sosteniendo en público una postura que no es suya.
 
-Y añade la entrada en `mi-marca/historial.md` con el porqué.
+Y añade la entrada en `work/mi-marca/historial.md` con el porqué.
 
 ## Lo que no debes hacer
 

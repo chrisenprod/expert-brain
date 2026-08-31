@@ -5,7 +5,7 @@ conviene tomarlas, con los enlaces a las páginas de [[expert-brain]] que las re
 
 **Rellénalas aquí mismo.** Este repo es tuyo desde que lo clonaste.
 
-> Si haces fork público, tus respuestas se publican con él. Añade `mi-marca/` a `.gitignore` si
+> Si haces fork público, tus respuestas se publican con él. Añade `work/mi-marca/` a `.gitignore` si
 > prefieres que no.
 
 ## Haz estas cuatro y para

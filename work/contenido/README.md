@@ -2,7 +2,7 @@
 
 Lo que produces con el vault: guiones, ganchos, carruseles, secuencias de historias, borradores.
 
-Está fuera de `mi-marca/` a propósito. `mi-marca/` son **once decisiones**; esto es
+Está fuera de `work/mi-marca/` a propósito. `work/mi-marca/` son **once decisiones**; esto es
 **producción**, y mezclarlos rompe las dos cosas.
 
 ## La única regla

@@ -308,7 +308,7 @@ fichas" por "once" en el README — son 00 a 10.
 
 ## [2026-08-30] skills | Dos comandos, no once plantillas
 
-La primera idea era una skill que llevara por las fichas de `mi-marca/`. Se descartó: las fichas
+La primera idea era una skill que llevara por las fichas de `work/mi-marca/`. Se descartó: las fichas
 ya traen dentro qué leer y cómo saber si están bien, y `CLAUDE.md` se carga solo al abrir el
 repo. Una skill que solo diga "cita tus fuentes" es una cuarta capa que se desincroniza.
 
@@ -353,8 +353,29 @@ Dos reglas que llevan las cinco:
 
 Y dos carpetas nuevas:
 
-- `mi-marca/historial.md` — un archivo, no una carpeta: un changelog se lee de arriba abajo y una
+- `work/mi-marca/historial.md` — un archivo, no una carpeta: un changelog se lee de arriba abajo y una
   carpeta no se lee nunca. Guarda **por qué** cambiaste de opinión, que es lo que se pierde.
-- `contenido/` — la producción, fuera de `mi-marca/` porque son once decisiones y esto son
+- `contenido/` — la producción, fuera de `work/mi-marca/` porque son once decisiones y esto son
   guiones. Con una regla: cada pieza enlaza a la ficha que la justifica, para que el grafo enseñe
   qué decisiones producen trabajo y cuáles llevan meses sin parir nada.
+
+## [2026-08-30] estructura | La raíz se parte en experts/ y work/
+
+Ocho carpetas de contenido en la raíz y ninguna jerarquía. El corte que quedó es **lo que lees
+contra lo que escribes**, que es la misma división de dos capas que el repo ya usaba dentro de
+cada brain:
+
+- `experts/` — los cinco más `super-expert-brain`. Se lee, no se reescribe.
+- `work/` — `mi-marca/` y `contenido/`. Es del usuario, y el repo funciona sin ello.
+
+De paso, `victor-heras-brain/` pasa a `experts/victor-heras/`: era el único con sufijo.
+
+Lo que **no** se rompió: los `[[wikilinks]]`. Obsidian resuelve por nombre de archivo y no por
+ruta, así que mover carpetas no toca ninguno de los 1.543. Lo que sí hubo que reescribir son las
+rutas literales — README, CLAUDE.md, las cinco skills, `scripts/ingest.py` y el patrón
+`*/raw/texto/` del `.gitignore`, que ahora es `experts/*/raw/texto/`.
+
+Y se aprovechó para dejar los colores del grafo **en el repo** en vez de en el estado local de
+cada uno: `.obsidian/graph.json` lleva los siete `colorGroups` por ruta y la física ajustada
+(repel 18, linkDistance 120, centerStrength 0.30). Antes venía vacío, así que quien clonaba veía
+un grafo gris y sin cúmulos.

@@ -6,17 +6,67 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:experts/victor-heras",
+      "color": {
+        "a": 1,
+        "rgb": 16098596
+      }
+    },
+    {
+      "query": "path:experts/caleb-ralston",
+      "color": {
+        "a": 1,
+        "rgb": 15026253
+      }
+    },
+    {
+      "query": "path:experts/emilio-puigrredon",
+      "color": {
+        "a": 1,
+        "rgb": 5017078
+      }
+    },
+    {
+      "query": "path:experts/alex-hormozi",
+      "color": {
+        "a": 1,
+        "rgb": 4630360
+      }
+    },
+    {
+      "query": "path:experts/brian-tracy",
+      "color": {
+        "a": 1,
+        "rgb": 12864472
+      }
+    },
+    {
+      "query": "path:experts/super-expert-brain",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:work",
+      "color": {
+        "a": 1,
+        "rgb": 9145227
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.25,
+  "lineSizeMultiplier": 0.6,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6377730004678852,
+  "centerStrength": 0.3,
+  "repelStrength": 18,
+  "linkStrength": 0.55,
+  "linkDistance": 120,
+  "scale": 0.22,
   "close": true
 }

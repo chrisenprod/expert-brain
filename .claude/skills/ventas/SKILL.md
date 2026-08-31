@@ -16,7 +16,7 @@ corrige: casi todo el mundo llega diciendo que su problema es de tráfico.
 > "I always fix things from back to front. So, it's like the thing you sell, how we sell it, who
 > we're going to sell it to, and how we get them to find out about it."
 
-Fichas que actualiza: `mi-marca/03-oferta.md`, `04-precio.md`, `08-embudo.md`.
+Fichas que actualiza: `work/mi-marca/03-oferta.md`, `04-precio.md`, `08-embudo.md`.
 
 ## Paso 0 · Lee los cinco
 
@@ -87,7 +87,7 @@ igual. Dilo en vez de aplicarlo a ciegas.
 
 ## Escribe
 
-Ficha + `mi-marca/historial.md` con el porqué. Una respuesta por turno.
+Ficha + `work/mi-marca/historial.md` con el porqué. Una respuesta por turno.
 
 ## Lo que no debes hacer
 

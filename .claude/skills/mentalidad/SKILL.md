@@ -14,7 +14,7 @@ description: >-
 El operador. Es el bloque donde Tracy manda, pero **traerlo solo a él es el error**: su material
 es el más antiguo del vault y el que más datos falsos arrastra.
 
-Ficha que actualiza: `mi-marca/00-destino.md`.
+Ficha que actualiza: `work/mi-marca/00-destino.md`.
 
 ## Paso 0 · Lee los cinco
 
@@ -29,7 +29,7 @@ Ficha que actualiza: `mi-marca/00-destino.md`.
 
 ## Paso 1 · Lee primero cómo leer a Tracy
 
-**Obligatorio:** `brian-tracy/wiki/como-leer-el-seminario-fenix.md`.
+**Obligatorio:** `experts/brian-tracy/wiki/como-leer-el-seminario-fenix.md`.
 
 Hay datos que circulan como hechos y no lo son: **el estudio de Yale de 1953 sobre metas
 escritas no existe**, y lo de Einstein usando el 15% del cerebro tampoco. Las cifras redondas
@@ -41,7 +41,7 @@ Su filtro, y úsalo: si el mecanismo propuesto es *el universo responde*, guárd
 ## Paso 2 · El desacuerdo que decide la respuesta
 
 **Tracy dice que subas la creencia por encima de la evidencia. Ralston y Hormozi dicen que la
-bajes hasta que coincida con los hechos.** Está en `super-expert-brain/wiki/mentalidad-y-creencia.md`.
+bajes hasta que coincida con los hechos.** Está en `experts/super-expert-brain/wiki/mentalidad-y-creencia.md`.
 
 Para Tracy, sentirte impostor es un autoconcepto que reprogramar. Para Hormozi es información
 correcta: *"imposter syndrome is you feeling ashamed for lying"*.
@@ -73,10 +73,10 @@ operativo: actividad que genera ingresos primero, aunque la agenda diga otra cos
 
 ## Paso 5 · Escribe
 
-Si sale una meta, va a `mi-marca/00-destino.md`, y tiene que cumplir el requisito de Tracy:
+Si sale una meta, va a `work/mi-marca/00-destino.md`, y tiene que cumplir el requisito de Tracy:
 **medible y bajo tu control**. Si no se puede medir, no es una meta.
 
-Y la entrada en `mi-marca/historial.md` con el porqué.
+Y la entrada en `work/mi-marca/historial.md` con el porqué.
 
 ## Lo que no debes hacer
 

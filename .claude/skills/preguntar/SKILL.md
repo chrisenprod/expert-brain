@@ -16,9 +16,9 @@ antes que la respuesta.** Un consenso falso es peor que no responder.
 
 ## Paso 0 · Los cinco, siempre
 
-No respondas desde uno solo. Barre `alex-hormozi/wiki/`, `brian-tracy/wiki/`,
-`caleb-ralston/wiki/`, `emilio-puigrredon/wiki/` y `victor-heras-brain/wiki/`, y mira siempre
-`super-expert-brain/wiki/`, que es donde están los cruces ya escritos.
+No respondas desde uno solo. Barre `experts/alex-hormozi/wiki/`, `experts/brian-tracy/wiki/`,
+`experts/caleb-ralston/wiki/`, `experts/emilio-puigrredon/wiki/` y `experts/victor-heras/wiki/`, y mira siempre
+`experts/super-expert-brain/wiki/`, que es donde están los cruces ya escritos.
 
 Empieza por el centro: `expert-brain.md` enlaza las contradicciones, los consensos y
 `un-concepto-cinco-nombres`, que resuelve el caso más común — que el usuario pregunte por un
@@ -34,7 +34,7 @@ estar en la sección que no salía en la búsqueda.
    sitio pesan más que cualquiera por separado.
 3. **Si discrepan**, trae las dos posturas **antes** de recomendar, y luego resuelve con la
    variable que resuelve casi todos sus desacuerdos: **el ticket y el plazo**. Está en
-   `super-expert-brain/wiki/precio-y-ticket-comparado.md`.
+   `experts/super-expert-brain/wiki/precio-y-ticket-comparado.md`.
 4. **Cita la página** en cada afirmación, con su ruta. Si no puedes citarla, no la digas.
 
 ## Paso 2 · Los sesgos
@@ -48,8 +48,8 @@ y los datos falsos, como el estudio de Yale de 1953, que no existe.
 
 ## Paso 3 · Si la respuesta cambia una decisión
 
-Si lo que sale afecta a una ficha de `mi-marca/`, dilo y ofrece actualizarla. No la toques sin
-permiso. Cuando la toques, añade la entrada en `mi-marca/historial.md` — arriba, con fecha, y
+Si lo que sale afecta a una ficha de `work/mi-marca/`, dilo y ofrece actualizarla. No la toques sin
+permiso. Cuando la toques, añade la entrada en `work/mi-marca/historial.md` — arriba, con fecha, y
 diciendo **por qué** cambió, no solo qué.
 
 ## Lo que no debes hacer
